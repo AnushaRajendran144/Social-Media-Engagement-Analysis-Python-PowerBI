@@ -33,5 +33,22 @@ Based on the data, the content strategy should pivot to:
 * Schedule high-value content for weekday evenings.
 * Tailor specific campaigns to the high-performing Senior Adult segment.
 
+## 📸 Project Screenshots
+
+### Executive Overview
+![Executive Overview](./Executive%20Overview.png)
+
+### Audience Demographics
+![Audience Demographics](./Audience%20Demographics.png)
+
+### Content-Time Optimization
+![Time Optimization](./Content-Time%20Optimization.png)
+
+### Strategy & Next Steps
+![Strategy Roadmap](./Strategy%20%26%20Next%20Steps.png)
+
+### Post Type Drill Through
+![Post Type Analysis](./Post%20Type%20Drill%20Through.png)
+
 ---
 *Created by Anusha Rajendran*
