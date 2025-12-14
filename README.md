@@ -6,7 +6,7 @@ This project investigates the impact of the **"Zero Posting" trend**—a phenome
 Using a multi-tool approach (Python, Excel, Power BI), I analyzed social media data to quantify how consistency impacts reach and to identify the optimal posting schedule to recover lost engagement.
 
 ## 📂 Project Presentation
-**[View the Full Project Presentation (PDF)](./Presented%20by%20Anusha%20Rajendran.pdf)**
+**[View the Full Project Presentation (PDF)](./Social%20Media%20Presentation.pdf)**
 *(Click the link above to see the detailed project journey and findings)*
 
 ## 🛠 Tools & Workflow
